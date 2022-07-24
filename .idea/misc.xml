@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClojureProjectResolveSettings">
+    <currentScheme>IDE</currentScheme>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka/akka-samples/akka-sample-main-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../charts/charts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../essential-slick-code/chapter-01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fpinscala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../reductions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spark/w1/wikipedia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../sq/playtest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../sq/squbs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../stackoverflow" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../toDelete/fpinscala" value="PREVIEW" />
+        <entry key="$USER_HOME$/testsbt/createtemplate/hello" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="maximumHeapSize" value="6000" />
+  </component>
+</project>
